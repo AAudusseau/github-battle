@@ -1,3 +1,4 @@
+/* toto */
 var USER_DATA = {
 	name: 'Antoine Audusseau',
 	username: 'aaudusseau',
